@@ -1,0 +1,5 @@
+[
+  { "id": 1, "servicio": "Mantenimiento web", "categoria": "Web", "descripcion": "Actualización de sitios" },
+  { "id": 2, "servicio": "Soporte de correo", "categoria": "Soporte", "descripcion": "Configuración de correo" },
+  { "id": 3, "servicio": "Hosting", "categoria": "Infraestructura", "descripcion": "Alojamiento web" }
+]
